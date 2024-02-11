@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=U2 Old DesignItemId=STM32F103C8T6 New DesignItemId=
+Change Component Library : Designator=U2 Old Library=smartmcu.IntLib New Library=STMicroelectronics STM32 F1.IntLib
+Added Member To Class: ClassName=MCU Member=Component U2 STM32F103CBT6

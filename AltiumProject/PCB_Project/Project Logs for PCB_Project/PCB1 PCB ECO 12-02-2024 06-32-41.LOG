@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=+9V Pin=P3-2
+Removed Member From Class: ClassName=PowerSupply Member=P3
+Removed Member From Class: ClassName=MCU Member=P5
+Change Component Designator: OldDesignator=J1 NewDesignator=J3
+Change Component Designator: OldDesignator=P1 NewDesignator=P3
+Change Component Designator: OldDesignator=P2 NewDesignator=P4
+Change Component Designator: OldDesignator=P4 NewDesignator=P1
+Change Component Designator: OldDesignator=P5 NewDesignator=P2
+Change Component Designator: OldDesignator=R1 NewDesignator=R19
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Added Component: Designator=J1(My_DC_Jack)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "DC_Jack-AS"; VariantName = "[No Variations]"
+Added Component: Designator=J2(My_DC_Jack)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "DC_Jack-AS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+9V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR19_2
+Added Member To Class: ClassName=PowerSupply Member=Component J1 DC_Jack
+Added Member To Class: ClassName=PowerSupply Member=Component J2 DC_Jack
+Added Member To Class: ClassName=MCU Member=Component P3 MHDR1X4

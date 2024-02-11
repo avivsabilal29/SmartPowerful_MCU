@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=ConnectionMCU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ConnectionMCU.SchDoc|FileName=MCU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ConnectionMCU.SchDoc|FileName=PowerSupply.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ConnectionMCU.SchDoc|FileName=Sheet1.SchDoc|SheetNumber=1

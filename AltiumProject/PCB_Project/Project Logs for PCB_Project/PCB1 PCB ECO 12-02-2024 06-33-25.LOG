@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=PowerSupply Member=J2
+Removed Member From Class: ClassName=PowerSupply Member=J3
+Added Member To Class: ClassName=PowerSupply Member=Component J1 DC_Jack
+Added Member To Class: ClassName=MCU Member=Component P2 Header 16
+Added Member To Class: ClassName=MCU Member=Component P3 MHDR1X4
+Added Member To Class: ClassName=MCU Member=Component P4 MHDR1X3
+Added Member To Class: ClassName=MCU Member=Component R2 1K
+Added Member To Class: ClassName=MCU Member=Component R4 1K
+Added Member To Class: ClassName=MCU Member=Component R6 1K
+Added Member To Class: ClassName=MCU Member=Component R8 1K
+Added Member To Class: ClassName=MCU Member=Component R10 1K
+Added Member To Class: ClassName=MCU Member=Component R12 1K
+Added Member To Class: ClassName=MCU Member=Component R14 1K
+Added Member To Class: ClassName=MCU Member=Component R16 1K
+Added Member To Class: ClassName=MCU Member=Component R18 1K
+Added Member To Class: ClassName=MCU Member=Component R19 1K
